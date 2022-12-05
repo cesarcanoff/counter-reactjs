@@ -5,4 +5,4 @@
 - Responsiveness
 - Design
 - Optimization
-- COnvert from JavaScript Project to Typescript Project
+- Convert from JavaScript Project to Typescript Project
